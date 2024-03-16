@@ -4,6 +4,7 @@ At this project, you will learn how to open an image with Matplotlib, change the
 
 Learning Objectives:
 /nOpen an Image with Matplotlib
+
 /nOpen an Image with OpenCV
 Learn the main points to remember for OpenCV
 Change the Image's colour, size, orientation
